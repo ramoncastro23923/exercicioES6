@@ -1,4 +1,3 @@
-// Classe Aluno
 class Aluno {
     constructor(nome, nota) {
       this.nome = nome;
